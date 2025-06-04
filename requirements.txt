@@ -1,3 +1,0 @@
-# Built-in modules (for reference only, not installed)
-tkinter
-random
