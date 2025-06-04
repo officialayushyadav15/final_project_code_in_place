@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/84464293-2caf-41c5-87fa-1498d78039a1
     <td><img src="4.png" alt="Hint Display" style="width:100%"/></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="5.png" alt="Final Score" style="width:100%"/></td>
+    <td colspan="2"><img src="5.png" alt="Final Score" style="width:50%"/></td>
   </tr>
 </table>
 
