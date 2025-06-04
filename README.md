@@ -56,8 +56,8 @@ https://github.com/user-attachments/assets/84464293-2caf-41c5-87fa-1498d78039a1
 1. Clone the repository:
    ```bash
    git clone https://github.com/officialayushyadav15/quiz-app.git
-   cd quiz-app
-```
+   cd quiz-app```
+
 
 2. Run the script:
 
