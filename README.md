@@ -29,10 +29,10 @@ https://github.com/user-attachments/assets/84464293-2caf-41c5-87fa-1498d78039a1
 
 | Interface Screens |
 |-------------------|
-| ![Start Quiz](1.png) |
-| ![Question Asked](2.png) |
-| ![Answer Selected](3.png) |
-| ![Hint Display](4.png) |
+| ![Start Quiz](1.png) | ![Question Asked](2.png) |
+
+| ![Answer Selected](3.png) | ![Hint Display](4.png) |
+
 | ![Final Score](5.png) |
 
 ---
