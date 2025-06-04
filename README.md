@@ -27,18 +27,17 @@ https://github.com/user-attachments/assets/84464293-2caf-41c5-87fa-1498d78039a1
 
 
 
-<table>
+<table style="width:100%">
   <tr>
-    <td><img src="1.png" alt="Start Quiz" width="300"/></td>
-    <td><img src="2.png" alt="Question Asked" width="300"/></td>
+    <td><img src="1.png" alt="Start Quiz" style="width:100%"/></td>
+    <td><img src="2.png" alt="Question Asked" style="width:100%"/></td>
   </tr>
   <tr>
-    <td><img src="3.png" alt="Answer Selected" width="300"/></td>
-    <td><img src="4.png" alt="Hint Display" width="300"/></td>
+    <td><img src="3.png" alt="Answer Selected" style="width:100%"/></td>
+    <td><img src="4.png" alt="Hint Display" style="width:100%"/></td>
   </tr>
   <tr>
-    <td><img src="5.png" alt="Final Score" width="300"/></td>
-    <td></td>
+    <td colspan="2"><img src="5.png" alt="Final Score" style="width:100%"/></td>
   </tr>
 </table>
 
