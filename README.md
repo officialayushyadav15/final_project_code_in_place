@@ -27,13 +27,20 @@ https://github.com/user-attachments/assets/84464293-2caf-41c5-87fa-1498d78039a1
 
 
 
-| Interface Screens |
-|-------------------|
-| ![Start Quiz](1.png) | ![Question Asked](2.png) |
-
-| ![Answer Selected](3.png) | ![Hint Display](4.png) |
-
-| ![Final Score](5.png) |
+<table>
+  <tr>
+    <td><img src="1.png" alt="Start Quiz" width="300"/></td>
+    <td><img src="2.png" alt="Question Asked" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="3.png" alt="Answer Selected" width="300"/></td>
+    <td><img src="4.png" alt="Hint Display" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="5.png" alt="Final Score" width="300"/></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
